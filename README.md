@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daweifeng-replit aka [@daweifeng](https://github.com/daweifeng)
-- Working on some infra stuff @replit
+- Working on some infra stuff [@replit](https://github.com/replit)
 
 <!---
 daweifeng-replit/daweifeng-replit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
