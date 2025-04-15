@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daweifeng-replit aka @daweifeng
+- 👋 Hi, I’m @daweifeng-replit aka [@daweifeng](https://github.com/daweifeng)
 - Working on some infra stuff @replit
 
 <!---
